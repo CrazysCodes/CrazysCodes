@@ -5,7 +5,7 @@
 
 <br>
 <pre>
-    💻 Java • Python • TypeScript • Shell
+    💻 Java • Python • TypeScript
     📖 AI • Science fiction novels
     🎮 Music • Sport • Code • Tour • Games - CSGO
 </pre>
