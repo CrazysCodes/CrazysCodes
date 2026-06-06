@@ -17,8 +17,8 @@
   
 #### ☀️ Intern
 
-<strong>MT🦘</strong> -- <code>Core Local Commerce/Arena</code> -- <code>2025.7-2025.12</code><br/>
-<strong>JD🐩</strong> -- <code>JD Retail/Oxygent</code> -- <code>2026.1-now</code><br/>
+<strong>MT</strong> -- <code>Core Local Commerce/Arena</code> -- <code>2025.7-2025.12</code><br/>
+<strong>JD</strong> -- <code>JD Retail/Oxygent</code> -- <code>2026.1-now</code><br/>
 
 </td>
 <td valign="top" width="48%">
